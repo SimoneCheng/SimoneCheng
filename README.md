@@ -15,7 +15,7 @@
 <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></img>
 <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img>
 <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></img>
-<img style="background-color: black;" height="24" src="https://styled-components.com/logo.png"></img>
+<img height="24" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"></img>
 <img height="24" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></img>
 <img height="24" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></img>
 
