@@ -1,4 +1,4 @@
-<h3> Hello! 👋 I'm Simone! 👻 </h3>
+<h3> Hello! 👋 I'm Simone! 👾 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonecheng&label=Profile%20views&color=0e75b6&style=flat" alt="simonecheng" /> </p>
 
@@ -8,10 +8,10 @@
 - 🌱 Learning <img height="24" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"></img> and 
 <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></img> now.   
 - 📝 Welcome to [my blog](https://simonecheng.github.io/).  
-- 📫 You can find me here bleach1827@gmail.com.
 
-<h4> 🐳 Language and Tools </h4>
+<!-- <h4> 🐳 Language and Tools </h4> -->
 
+<!--
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -58,7 +58,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </a> 
 </p>
-
+-->
 
 <h4> 🐳 My Github Stats </h4>
 
