@@ -4,10 +4,9 @@
 
 <h4> 🐳 About Me </h4>
 
-- ⚡ I'm a self-taught passionate Front-End developer!
+- ⚡ I'm a self-taught passionate software engineer!
 - 🌱 Learning <img height="24" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"></img> and 
 <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></img> now.   
-- 📝 Welcome to [my blog](https://simonecheng.github.io/).  
 
 <!-- <h4> 🐳 Language and Tools </h4> -->
 
